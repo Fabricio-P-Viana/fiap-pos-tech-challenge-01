@@ -24,17 +24,34 @@ Professores da rede pública muitas vezes carecem de ferramentas para postar aul
 
 ### Fluxo da Aplicação
 **Fluxo do Aluno:**
-<!-- Faltante -->
+![Fluxo do Aluno](./images/fluxograma-aluno.png)
 
 **Fluxo do Professor:**
-<!-- Faltante -->
+![Fluxo do Professor](./images/fluxograma-professor.png)
 
 ### Manual de Operações Básicas
-<!-- Faltante -->
+1. **Acesso à Aplicação**: Baixe o codigo fonte abra o outsystems e rode a aplicação.
+2. **Perfil Aluno (Visualização)**:
+   - **Listar Posts**: Utilize o menu de acesso à área do aluno.
+   - **Ler Post**: Clique no título de uma postagem para visualizar o conteúdo completo.
+3. **Perfil Professor (Administração)**:
+   - **Acessar Área Admin**: Utilize o menu de acesso à área administrativa.
+   - **Criar Post**: Clique no botão "Novo Post", preencha o Título e o Descrição, e clique em "Salvar".
+   - **Editar Post**: Na lista de gerenciamento, clique no titulo do post desejado, faça as alterações e salve.
+   - **Excluir Post**: Na lista de gerenciamento, clique no titulo do post e na pagina de detalhe do post na direita superior clique no botão excluir.
+
 ### Processo de Trabalho do Grupo
-<!-- Faltante -->
+O desenvolvimento do projeto seguiu uma abordagem colaborativa:
+- **Planejamento**: Reuniões iniciais para leitura do Tech Challenge e entendimento dos requisitos.
+- **Divisão de Tarefas**: As responsabilidades foram distribuídas entre os membros, focando na modelagem de dados, criação das telas (UI) e lógica de negócios.
+- **Comunicação**: Utilizamos o Discord para reuniões.
+- **Desenvolvimento**: O grupo trabalhou no ambiente da OutSystems, compartilhando conhecimentos e descobertas sobre a plataforma.
+
 ### Dificuldades Encontradas
-<!-- Faltante -->
+Durante o desenvolvimento, enfrentamos alguns desafios que serviram como aprendizado:
+- **Curva de Aprendizado**: Adaptação inicial aos conceitos e interface do Service Studio da OutSystems.
+- **Gestão de Tempo**: Conciliar as agendas de todos os integrantes para reuniões síncronas.
+- **Lógica da Plataforma**: Entendimento de fluxos específicos e manipulação de dados dentro da outSystems.
 
 ## Entregáveis
 - Código-Fonte (Projeto OutSystems) Anexo na atividade.
@@ -49,4 +66,4 @@ Professores da rede pública muitas vezes carecem de ferramentas para postar aul
 | RM369372 | Fabricio Pereira Viana | [GitHub](https://github.com/fabriciopviana) |
 | RM369417 | Felipe Bresolim Znidarsis | [GitHub](https://github.com/) |
 | RM369227 | Jorge Davi Brandão da Silva Filho | [GitHub](https://github.com/) |
-| RM369982 | Washington Barsotti | [GitHub](https://github.com/) |
+| RM369982 | Washington Barsotti | [GitHub](https://github.com/BarsottiX) |
